@@ -8,7 +8,7 @@
     "url": "https://github.com/porkchop"
   },
   "dependencies": {
-    "bitcoinjs-lib": "0.2.0"
+    "digicore-message": "*"
   },
   "devDependencies": {
     "should": "3.3.1",
