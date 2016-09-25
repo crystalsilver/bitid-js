@@ -8,7 +8,7 @@
     "url": "https://github.com/porkchop"
   },
   "dependencies": {
-    "digicore-message": "*"
+    "bitcore-message": "git://github.com/dgbholdings/bitcore-message.git"
   },
   "devDependencies": {
     "should": "3.3.1",
